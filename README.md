@@ -1,7 +1,21 @@
-style-influence
+Style Influence
 ==============================
 
-A short description of the project.
+Linguistic style matching (LSM) in conversations can be reflective of several aspects of social influence such as power
+or persuasion. However, how LSM relates to the outcomes of online communication on platforms such as Reddit is an unknown question.
+
+In this study, we analyze a large corpus of two-party conversation threads in Reddit where we identify all occurrences of LSM 
+using two types of style: the use of function words and formality. Using this framework, we examine how levels of LSM differ 
+in conversations depending on several social factors within Reddit: post and subreddit features, conversation depth, user tenure, 
+and the controversiality of a comment. Finally, we measure the change of LSM following loss of status after community banning.
+Our findings reveal the interplay of LSM in Reddit conversations with several community metrics, suggesting the importance of 
+understanding conversation engagement when understanding community dynamics.
+
+## Measuring LSM
+
+
+## Regression Models
+
 
 Project Organization
 ------------
@@ -53,5 +67,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
